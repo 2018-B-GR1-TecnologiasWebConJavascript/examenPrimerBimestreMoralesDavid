@@ -1,0 +1,23 @@
+{
+  "name": "examenprimerbimestremoralesdavid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2018-B-GR1-TecnologiasWebConJavascript/examenPrimerBimestreMoralesDavid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2018-B-GR1-TecnologiasWebConJavascript/examenPrimerBimestreMoralesDavid/issues"
+  },
+  "homepage": "https://github.com/2018-B-GR1-TecnologiasWebConJavascript/examenPrimerBimestreMoralesDavid#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "rxjs": "^6.3.3"
+  }
+}
